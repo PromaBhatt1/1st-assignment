@@ -1,0 +1,12 @@
+*{
+    margin-left: 0%;
+    padding: 0%;
+}
+header{
+    background-color: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
+}
+.container{
+    width: 260px;
+    text-align: center;
+    max-width: 635px;
+}
